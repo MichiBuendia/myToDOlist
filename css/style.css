@@ -1,0 +1,44 @@
+h1 {
+  text-align:center;
+  font-variant:small-caps;
+  color:red;
+  font-size:40px;
+  font-weight: bold;
+  text-decoration:overline;
+}
+
+#mylist {
+	clear:both;
+	list-style: none;
+	padding-left: 0;
+	width: 100%;
+}
+
+#mylist li {
+	background-color: #fff;
+	border: 1px solid #d8d8d8;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	word-wraph: break-word;
+	min-heigt: 42px;
+}
+
+
+#ev{
+  background-color: red;
+}
+
+#lt{
+  background-color: black;
+}
+
+#down{
+  background-color: green;
+}
+
+#up{
+  background-color: orange;
+}

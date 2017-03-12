@@ -5,7 +5,17 @@ h1 {
   font-size:40px;
   font-weight: bold;
   text-decoration:overline;
+  background-image:url("../img/list.jpg");
+  background-repeat: no-repeat;
+  height: 100px;
 }
+
+#demo {
+  text-align:center;
+  font-variant:small-caps;
+  color:green;
+}
+
 
 #mylist {
 	clear:both;
@@ -24,21 +34,43 @@ h1 {
 	margin-bottom: 10px;
 	word-wraph: break-word;
 	min-heigt: 42px;
+  font-size: 14px;
+  font-family: 'Ubuntu', sans-serif;
+  color: black;
 }
 
+#rem {
+  border-color: red;
+  background-color: white;
+  color:red;
+
+}
 
 #ev{
-  background-color: red;
+  border-color: red;
+  background-color: white;
+  color:red;
 }
 
 #lt{
-  background-color: black;
+  border-color: black;
+  background-color: white;
+  color:black;
 }
 
 #down{
-  background-color: green;
+  border-color: black;
+  background-color: white;
+  color:green;
 }
 
 #up{
-  background-color: orange;
+  border-color: black;
+  background-color: white;
+  color:green;
+}
+
+#add{
+  background-color: red;
+  color:white;
 }
